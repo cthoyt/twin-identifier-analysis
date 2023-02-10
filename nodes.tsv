@@ -2,14 +2,17 @@ prefix	name	example_luid	n_luids
 agro	Agronomy Ontology	00020007	772
 aism	Ontology for the Anatomy of the Insect SkeletoMuscular system	0000027	553
 amphx	The Amphioxus Development and Anatomy Ontology	1000160	399
+antibodyregistry	Antibody Registry	493771	1898783
 apo	Ascomycete phenotype ontology	0000184	309
 aro	Antibiotic Resistance Ontology	1000001	6610
 bfo	Basic Formal Ontology	0000001	35
 bspo	Biological Spatial Ontology	0000029	139
 bto	BRENDA Tissue Ontology	0000590	6511
+ccle	Cancer Cell Line Encyclopedia Cells	BT20_BREAST	1739
 cdao	Comparative Data Analysis Ontology	0000072	131
 cdno	Compositional Dietary Nutrition Ontology	0000013	799
 cellosaurus	Cellosaurus	0440	144568
+cgnc	Chicken Gene Nomenclature Consortium	10087	25903
 chebi	Chemical Entities of Biological Interest	24867	163657
 chmo	Chemical Methods Ontology	0002902	2908
 cio	Confidence Information Ontology	0000040	44
@@ -19,14 +22,19 @@ clyh	Clytia hemisphaerica Development and Anatomy Ontology	1000100	257
 cmo	Clinical measurement ontology	0001350	3025
 cmpo	Cellular Microscopy Phenotype Ontology	0000435	399
 colao	Coleoptera Anatomy Ontology	0000000	83
+complexportal	Complex Portal	CPX-263	3842
+conso	Curation of Neurodegeneration Supporting Ontology	CONSO00010	368
 cro	Contributor Role Ontology	0000038	81
 cryoem	Cryo Electron Microscopy ontology	0000052	111
 cteno	Ctenophore Ontology	0000047	151
 cvdo	Cardiovascular Disease Ontology	0000546	290
 ddanat	Dictyostelium discoideum anatomy	0000006	130
 ddpheno	Dictyostelium discoideum phenotype ontology	0001417	961
+depmap	DepMap Cell Lines	ACH-000001	1814
 dermo	Human Dermatological Disease Ontology	0000000	3401
+dictybase	dictyBase	DDB0191090	14222
 doid	Human Disease Ontology	0110974	11207
+drugcentral	Drug Central	307	4927
 ecao	The Echinoderm Anatomy and Development Ontology	0107180	465
 eco	Evidence ontology	0007807	2007
 ecocore	An ontology of core ecological entities	00000001	182
@@ -43,6 +51,7 @@ fbbt	Drosophila gross anatomy	00007294	17570
 fbcv	FlyBase Controlled Vocabulary	0000586	1132
 fbdv	Drosophila development	00000000	200
 flopo	Flora Phenotype Ontology	0005250	23226
+flybase	FlyBase Gene	FBgn0011293	17895
 fobi	Food-Biomarker Ontology	030719	763
 fovt	FuTRES Ontology of Vertebrate Traits	0000009	313
 fypo	Fission Yeast Phenotype Ontology	0001707	7674
@@ -59,13 +68,17 @@ hp	Human Phenotype Ontology	0011140	16614
 hsapdv	Human Developmental Stages	0000194	243
 icepo	Ion Channel Electrophysiology Ontology	0000002	51
 ino	Interaction Network Ontology	0000003	166
+itis	Integrated Taxonomic Information System	589462	907116
 lbo	Livestock Breed Ontology	0000487	1108
 lepao	Lepidoptera Anatomy Ontology	0000005	132
 lpt	Livestock Product Trait Ontology	0000001	481
 ma	Mouse adult gross anatomy	0002502	3230
 maxo	Medical Action Ontology	0000008	1387
 mco	Microbial Conditions Ontology	0000858	839
+mesh	Medical Subject Headings	C063233	352161
+mgi	Mouse Genome Informatics	6017782	674296
 mi	Molecular Interactions Controlled Vocabulary	0058	1389
+mirbase	miRBase pre-miRNA	MI0026471	38589
 mmo	Measurement method ontology	0000574	695
 mmusdv	Mouse Developmental Stages	0000066	105
 mod	Protein modification	01467	1978
@@ -76,6 +89,7 @@ mpath	Mouse pathology ontology	728	841
 mro	MHC Restriction Ontology	0000634	51242
 ms	Mass spectrometry ontology	1000560	2937
 nbo	Neuro Behavior Ontology	0000564	928
+ncbigene	Entrez Gene	100010	31447889
 ncbitaxon	NCBI Taxonomy	2170610	2438855
 ncit	NCI Thesaurus	C138986	169223
 ncro	Non-Coding RNA Ontology	0002927	2543
@@ -90,9 +104,11 @@ omp	Ontology of Microbial Phenotypes	0005067	2006
 omrse	Ontology of Medically Related Social Entities	00000022	230
 one	Ontology for Nutritional Epidemiology	0001021	69
 ontoavida	Ontology for Avida digital evolution platform	00000001	670
+pathbank	PathBank	SMP0000219	110242
 pato	Phenotype And Trait Ontology	0001998	1875
 pdumdv	Platynereis Developmental Stages	0001410	21
 peco	Plant Experimental Conditions Ontology	0007114	550
+pfam	Pfam	PF11779	19632
 phipo	Pathogen Host Interaction Phenotype Ontology	0000001	920
 plana	Planarian Anatomy and Schmidtea mediterranean Developmental Stage Ontology	0000001	646
 planp	Planarian Phenotype Ontology	0000001	673
@@ -102,10 +118,18 @@ pr	Protein Ontology	000000024	226731
 psdo	Performance Summary Display Ontology	0000055	74
 pw	Pathway ontology	0000423	2600
 rbo	Radiation Biology Ontology	00000105	192
+reactome	Reactome	R-BTA-418592	22040
+rgd	Rat Genome Database	7499841	66782
+rhea	Rhea, the Annotated Reactions Database	12345	61812
 rs	Rat Strain Ontology	0001807	5020
 rxno	Name Reaction Ontology	0000253	653
 sbo	Systems Biology Ontology	0000485	694
 scdo	Sickle Cell Disease Ontology	0000728	1266
+schem	Selventa Chemicals	A0001	2941
+scomp	Selventa Complexes	C0001	135
+sdis	Selventa Diseases	D0001	441
+sfam	Selventa Families	F0001	247
+sgd	Saccharomyces Genome Database	S000002493	6600
 shareloc	ShareLoc	000004	95
 sio	Semanticscience Integrated Ontology	000912	1572
 so	Sequence types and features ontology	0001157	2386
@@ -116,6 +140,7 @@ to	Plant Trait Ontology	0000630	1606
 trans	Pathogen Transmission Ontology	0000024	32
 tto	Teleost taxonomy ontology	1058367	38640
 uberon	Uber Anatomy Ontology	2005080	14351
+uniprot	UniProt Protein	P0DP23	568744
 vbo	Vertebrate Breed Ontology	0000038	18556
 vsmo	Ontology for vector surveillance and management	0000000	1902
 vt	Vertebrate trait ontology	0000685	3677
