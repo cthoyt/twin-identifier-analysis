@@ -1,0 +1,134 @@
+prefix	name	example_luid	n_luids
+agro	Agronomy Ontology	00020007	772
+aism	Ontology for the Anatomy of the Insect SkeletoMuscular system	0000027	553
+amphx	The Amphioxus Development and Anatomy Ontology	1000160	399
+apo	Ascomycete phenotype ontology	0000184	309
+aro	Antibiotic Resistance Ontology	1000001	6610
+bfo	Basic Formal Ontology	0000001	35
+bspo	Biological Spatial Ontology	0000029	139
+bto	BRENDA Tissue Ontology	0000590	6511
+cdao	Comparative Data Analysis Ontology	0000072	131
+cdno	Compositional Dietary Nutrition Ontology	0000013	799
+cellosaurus	Cellosaurus	0440	144568
+chebi	Chemical Entities of Biological Interest	24867	163657
+chmo	Chemical Methods Ontology	0002902	2908
+cio	Confidence Information Ontology	0000040	44
+cl	Cell Ontology	0000062	2659
+clao	Collembola Anatomy Ontology	0000088	1495
+clyh	Clytia hemisphaerica Development and Anatomy Ontology	1000100	257
+cmo	Clinical measurement ontology	0001350	3025
+cmpo	Cellular Microscopy Phenotype Ontology	0000435	399
+colao	Coleoptera Anatomy Ontology	0000000	83
+cro	Contributor Role Ontology	0000038	81
+cryoem	Cryo Electron Microscopy ontology	0000052	111
+cteno	Ctenophore Ontology	0000047	151
+cvdo	Cardiovascular Disease Ontology	0000546	290
+ddanat	Dictyostelium discoideum anatomy	0000006	130
+ddpheno	Dictyostelium discoideum phenotype ontology	0001417	961
+dermo	Human Dermatological Disease Ontology	0000000	3401
+doid	Human Disease Ontology	0110974	11207
+ecao	The Echinoderm Anatomy and Development Ontology	0107180	465
+eco	Evidence ontology	0007807	2007
+ecocore	An ontology of core ecological entities	00000001	182
+ecto	Environmental conditions, treatments and exposures ontology	0000001	2826
+edam.data	EDAM Data	1664	1140
+edam.format	EDAM Format	1915	347
+edam.operation	EDAM Operation	0004	558
+edam.topic	EDAM Topic	0003	209
+efo	Experimental Factor Ontology	0005147	15540
+envo	Environment Ontology	09200010	3360
+exo	Exposure ontology	0000078	150
+fao	Fungal gross anatomy	0000001	112
+fbbt	Drosophila gross anatomy	00007294	17570
+fbcv	FlyBase Controlled Vocabulary	0000586	1132
+fbdv	Drosophila development	00000000	200
+flopo	Flora Phenotype Ontology	0005250	23226
+fobi	Food-Biomarker Ontology	030719	763
+fovt	FuTRES Ontology of Vertebrate Traits	0000009	313
+fypo	Fission Yeast Phenotype Ontology	0001707	7674
+gecko	Genomics Cohorts Knowledge Ontology	0000044	67
+geno	Genotype Ontology	0000632	221
+gno	Glycan Naming and Subsumption Ontology	10004892	104602
+go	Gene Ontology	0032571	43248
+goche	GO Chemicals	25512	75
+gsso	Gender, Sex, and Sexual Orientation Ontology	002368	9455
+hao	Hymenoptera Anatomy Ontology	0000187	2465
+hog	Homologous Organ Groups	0000255	1176
+hom	Homology Ontology	0000049	65
+hp	Human Phenotype Ontology	0011140	16614
+hsapdv	Human Developmental Stages	0000194	243
+icepo	Ion Channel Electrophysiology Ontology	0000002	51
+ino	Interaction Network Ontology	0000003	166
+lbo	Livestock Breed Ontology	0000487	1108
+lepao	Lepidoptera Anatomy Ontology	0000005	132
+lpt	Livestock Product Trait Ontology	0000001	481
+ma	Mouse adult gross anatomy	0002502	3230
+maxo	Medical Action Ontology	0000008	1387
+mco	Microbial Conditions Ontology	0000858	839
+mi	Molecular Interactions Controlled Vocabulary	0058	1389
+mmo	Measurement method ontology	0000574	695
+mmusdv	Mouse Developmental Stages	0000066	105
+mod	Protein modification	01467	1978
+mondo	Monarch Disease Ontology	0000001	22784
+mop	Molecular Process Ontology	0000079	3582
+mp	Mammalian Phenotype Ontology	0005452	13569
+mpath	Mouse pathology ontology	728	841
+mro	MHC Restriction Ontology	0000634	51242
+ms	Mass spectrometry ontology	1000560	2937
+nbo	Neuro Behavior Ontology	0000564	928
+ncbitaxon	NCBI Taxonomy	2170610	2438855
+ncit	NCI Thesaurus	C138986	169223
+ncro	Non-Coding RNA Ontology	0002927	2543
+nomen	A nomenclatural ontology for biological names	0000295	260
+oarcs	Ontology of Arthropod Circulatory Systems	0000029	307
+oba	Ontology of Biological Attributes	0000001	7787
+obi	Ontology for Biomedical Investigations	0400109	3735
+ogms	Ontology for General Medical Science	0000031	117
+olatdv	Medaka Developmental Stages	0000210	47
+omit	Ontology for MicroRNA Target	0000069	89
+omp	Ontology of Microbial Phenotypes	0005067	2006
+omrse	Ontology of Medically Related Social Entities	00000022	230
+one	Ontology for Nutritional Epidemiology	0001021	69
+ontoavida	Ontology for Avida digital evolution platform	00000001	670
+pato	Phenotype And Trait Ontology	0001998	1875
+pdumdv	Platynereis Developmental Stages	0001410	21
+peco	Plant Experimental Conditions Ontology	0007114	550
+phipo	Pathogen Host Interaction Phenotype Ontology	0000001	920
+plana	Planarian Anatomy and Schmidtea mediterranean Developmental Stage Ontology	0000001	646
+planp	Planarian Phenotype Ontology	0000001	673
+po	Plant Ontology	0009089	1653
+poro	Porifera Ontology	0000550	607
+pr	Protein Ontology	000000024	226731
+psdo	Performance Summary Display Ontology	0000055	74
+pw	Pathway ontology	0000423	2600
+rbo	Radiation Biology Ontology	00000105	192
+rs	Rat Strain Ontology	0001807	5020
+rxno	Name Reaction Ontology	0000253	653
+sbo	Systems Biology Ontology	0000485	694
+scdo	Sickle Cell Disease Ontology	0000728	1266
+shareloc	ShareLoc	000004	95
+sio	Semanticscience Integrated Ontology	000912	1572
+so	Sequence types and features ontology	0001157	2386
+spd	Spider Ontology	0000001	757
+symp	Symptom Ontology	0019171	897
+taxrank	Taxonomic rank vocabulary	0000001	61
+to	Plant Trait Ontology	0000630	1606
+trans	Pathogen Transmission Ontology	0000024	32
+tto	Teleost taxonomy ontology	1058367	38640
+uberon	Uber Anatomy Ontology	2005080	14351
+vbo	Vertebrate Breed Ontology	0000038	18556
+vsmo	Ontology for vector surveillance and management	0000000	1902
+vt	Vertebrate trait ontology	0000685	3677
+vto	Vertebrate Taxonomy Ontology	9008500	107005
+wbbt	C. elegans Gross Anatomy Ontology	0001290	6763
+wbls	C. elegans development ontology	0000690	774
+wbphenotype	C. elegans phenotype	0000983	2633
+wikipathways	WikiPathways	WP732	1700
+xao	Xenopus Anatomy Ontology	0004486	1720
+xco	Experimental condition ontology	0000780	675
+xlmod	HUPO-PSI cross-linking and derivatization reagents controlled vocabulary	00050	1101
+xpo	Xenopus Phenotype Ontology	0100002	20061
+zeco	Zebrafish Experimental Conditions Ontology	0000171	161
+zfa	Zebrafish anatomy and development ontology	0005926	3079
+zfs	Zebrafish developmental stages ontology	0000050	54
+zp	Zebrafish Phenotype Ontology	0019030	36602
